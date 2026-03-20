@@ -71,10 +71,5 @@ The Indian gig economy, led by food delivery platforms like **Zomato** and **Swi
 - **Hyper-Local:** District-level triggers using geo-fencing.
 - **Financial Inclusion:** Targeted specifically at the "under-insured" gig worker segment.
 
-## 📽️ Demo Video
-[Link to Demo Video coming soon...]
 
-## 👥 Team Details
-- **Lead Architect:** [Your Name/Team Name]
-- **AI Engineer:** [Placeholder]
-- **Frontend Guru:** [Placeholder]
+
