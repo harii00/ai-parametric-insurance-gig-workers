@@ -1,0 +1,22 @@
+[ONBOARDING] -> Worker links Swiggy/Zomato ID via OAuth.
+      |
+      v
+[PRICING]    -> AI predicts risk for the week; worker pays micro-premium (₹45).
+      |
+      v
+[MONITORING] -> Engine polls Weather/Traffic APIs for real-time risk data.
+      |
+      v
+[EVENT_PROX] -> Cloudburst/Heavy Rain detected (>20mm in 3H).
+      |
+      v
+[VERIFICATION]-> AI cross-references worker GPS & Online status.
+      |
+      v
+[TRIGGER]    -> Parametric condition met. "Loss of Income" confirmed.
+      |
+      v
+[PAYOUT]     -> Instant transfer to worker wallet (₹400 per event).
+      |
+      v
+[NOTIFY]     -> Push notification: "Claim settled instantly. Secure your ride!"

@@ -1,0 +1,24 @@
+[
+  {
+    "user_id": "GIG_IND_40129",
+    "name": "Rajesh Kumar",
+    "linked_platform": "Swiggy",
+    "location": "Indiranagar, Bengaluru",
+    "weekly_earnings_average": 5600,
+    "working_hours_average": 55,
+    "policy_status": "Active",
+    "current_premium": 45,
+    "total_payouts_received": 1200
+  },
+  {
+    "user_id": "GIG_IND_55210",
+    "name": "Priya Singh",
+    "linked_platform": "Zomato",
+    "location": "Aerocity, Delhi",
+    "weekly_earnings_average": 4800,
+    "working_hours_average": 48,
+    "policy_status": "Active",
+    "current_premium": 55,
+    "total_payouts_received": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "location": "Bengaluru, Karnataka",
+  "data_points": [
+    {
+      "timestamp": "2026-03-20T09:00:00Z",
+      "rainfall_mm": 2.5,
+      "temperature_c": 28,
+      "aqi": 120,
+      "condition": "Light Rain"
+    },
+    {
+      "timestamp": "2026-03-20T12:00:00Z",
+      "rainfall_mm": 22.0,
+      "temperature_c": 24,
+      "aqi": 85,
+      "condition": "Heavy Rain/Cloudburst",
+      "trigger_status": "ACTIVE"
+    },
+    {
+      "timestamp": "2026-03-20T15:00:00Z",
+      "rainfall_mm": 5.0,
+      "temperature_c": 26,
+      "aqi": 95,
+      "condition": "Moderate Rain"
+    },
+    {
+        "timestamp": "2026-03-21T10:00:00Z",
+        "rainfall_mm": 0.0,
+        "temperature_c": 43,
+        "aqi": 110,
+        "condition": "Heatwave Alert",
+        "trigger_status": "ACTIVE"
+    }
+  ]
+}
